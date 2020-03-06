@@ -12,7 +12,7 @@ class Navbar extends React.Component {
             <span>logo</span>
             <button>Linha do Tempo</button>
             <button>Perfil</button>
-            <span className="righ">{this.name}</span>
+            <span className="right">{this.name}</span>
         </nav>
         );
     }
