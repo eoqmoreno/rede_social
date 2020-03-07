@@ -1,3 +1,9 @@
+## REDE SOCIAL
+Repositório para a disciplina de Projeto de Interface WEB.
+Cada atividade está em uma branch nomeadas equivalente ao nome da mesma.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
