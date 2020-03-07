@@ -1,0 +1,23 @@
+.navbar{
+    margin: 10px;
+    vertical-align: top;
+}
+
+.right{
+    float: right;
+}
+
+.logo{
+    height:30px;
+    vertical-align: top;
+}
+
+button{
+    border:none;
+    background-color: none;
+    font-size: 100%;
+}
+
+button:hover{
+    text-decoration: underline;
+}

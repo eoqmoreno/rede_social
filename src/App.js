@@ -1,6 +1,6 @@
 import React from 'react';
-import Navbar from './test/navbar';
-import Galeria from './test/Galeria';
+import Navbar from './componente/navbar';
+import Galeria from './componente/Galeria';
 
 function App() {
   return (

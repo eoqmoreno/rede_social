@@ -1,0 +1,12 @@
+.galeria{
+    text-align: center;
+    width: 100%;
+}
+
+div h5{
+    font-size: 100%;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding: 0;
+    margin-bottom: 0;
+}
