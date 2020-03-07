@@ -1,4 +1,5 @@
 import React from "react";
+import './post.css';
 
 class Post extends React.Component {
   constructor(props) {
@@ -19,10 +20,10 @@ class Post extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="post">
         <span> Id: {this.id} </span>
         <br></br>
-        <span> Nome: {this.nome} </span>
+        <span> Nome: <br></br>{this.nome} </span>
         <br></br>
         <button onClick={this.click}>
           {this.state.clicks} Likes
