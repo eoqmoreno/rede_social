@@ -1,6 +1,8 @@
 import React from 'react';
-import Navbar from './componente/navbar';
-import Galeria from './componente/Galeria';
+
+//importando componentes
+import Navbar from './componentes/navbar';
+import Galeria from './componentes/Galeria';
 
 function App() {
   return (
