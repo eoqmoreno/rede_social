@@ -1,6 +1,6 @@
 ## REDE SOCIAL
 Repositório para a disciplina de Projeto de Interface WEB.
-Cada atividade está em uma branch nomeadas equivalente ao nome da mesma.
+A master está com a versão da Atividade 1
 
 
 
