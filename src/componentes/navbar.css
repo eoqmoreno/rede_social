@@ -1,0 +1,24 @@
+.navbar{
+    padding: 10px 10px 0 10px ;
+    vertical-align: top;
+    border-bottom: 1px solid black;
+}
+
+.right{
+    float: right;
+}
+
+.logo{
+    height:30px;
+    vertical-align: top;
+}
+
+.btn{
+    border:none;
+    background-color: none;
+    font-size: 100%;
+}
+
+.btn:hover{
+    text-decoration: underline;
+}
