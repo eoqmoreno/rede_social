@@ -6,6 +6,7 @@ class Navbar extends React.Component {
   constructor(props) {
     super(props);
     this.name = this.props.name;
+    // Recebendo por PROPS o nome que vem do App;
   }
   render() {
     return (

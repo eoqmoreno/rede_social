@@ -5,7 +5,7 @@ import Galeria from './componentes/Galeria';
 function App() {
   return (
     <div>
-      <Navbar name="Gabi"></Navbar>
+      <Navbar name="Victor"></Navbar>
       <Galeria></Galeria>
     </div>
   );
