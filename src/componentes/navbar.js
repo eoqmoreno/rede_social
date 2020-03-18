@@ -15,6 +15,9 @@ class Navbar extends React.Component {
         <button className="btn">Linha do Tempo</button>
         <button className="btn">Perfil</button>
         <span className="right">{this.name}</span>
+        {
+          //Rederizando o nome que chega por PROPS
+        }
       </div>
     );
   }
